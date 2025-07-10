@@ -1,4 +1,4 @@
-# 💻 Virtual Hardware Lab
+#  Virtual Hardware Lab
 
 This repository documents my self-directed virtual hardware labs using PC Building Simulator and other IT foundation tools.
 
